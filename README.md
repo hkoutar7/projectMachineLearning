@@ -8,7 +8,7 @@
 
 - The game is made in HTML5 using Phaser 2 framework and TensorFlow.js library for machine learning.
 
-- To classify images, I implemented an Artificial Intelligence (AI) based on Machine Learning (ML) 
+- To classify images, I implemented an Artificial Intelligence (AI) based on Machine Learning (ML) .
 
 - The model was trained on a small subset of the Quick Draw Dataset.
 
